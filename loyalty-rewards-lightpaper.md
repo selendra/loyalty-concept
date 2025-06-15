@@ -54,7 +54,7 @@ The platform creates a network where customers can:
 ### The Platform
 - The platform buys points from businesses at 80-90% of face value
 - When customers exchange points, the platform handles the transfer
-- Customers pay a small fee (1-3%) for exchanges
+- Initially no fees for exchanges to encourage adoption
 - Everyone benefits: customers get value, businesses get cash, platform earns fees
 
 ---
@@ -145,9 +145,9 @@ The platform creates a network where customers can:
 | Platform Revenue | $50K | $300K | $1.0M |
 
 ### Revenue Sources
-- **Transaction Fees:** 2% per point exchange
-- **Marketplace Fees:** 7% on peer-to-peer trades
-- **Point Arbitrage:** 15-25% margin on point inventory
+- **Transaction Fees:** Initially 0%, gradually introducing 0.5-1% after user base establishment
+- **Marketplace Fees:** Initially 0%, scaling to 2-3% on peer-to-peer trades
+- **Point Arbitrage:** 15-25% margin on point inventory (primary revenue during growth phase)
 - **Premium Services:** Analytics and marketing tools
 
 ---

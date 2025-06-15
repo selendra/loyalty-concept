@@ -118,10 +118,10 @@ Fees collected in SEL or stable token.
 ## 5. Incentive Design & Monetization
 
 ### Revenue Streams:
-- **Swap Fee**: 1–3% per point exchange (paid by user)
-- **Marketplace Fee**: 5–10% per point sale
+- **Swap Fee**: Initially 0% for user acquisition, gradually introducing 0.5-1% after network establishment
+- **Marketplace Fee**: Initially 0%, scaling to 2-3% for peer-to-peer trades
 - **Premium Business Tier** *(Optional)*: Analytics, featured placement
-- **Point Reserve Arbitrage**: Platform purchases points at a discount and fulfills redemptions from inventory
+- **Point Reserve Arbitrage**: Platform purchases points at a discount and fulfills redemptions from inventory (primary revenue source during growth phase)
 
 ### SEL Token Utility:
 - Gas sponsorship for core actions
